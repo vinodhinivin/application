@@ -32,6 +32,8 @@ public class Sample {
 		
 		boolean toApplyForNetBanking = true;
 		System.out.println("I wish to apply for Netbanking:" +toApplyForNetBanking);
+		
+		System.out.println("done");
 	} 
 
 }
