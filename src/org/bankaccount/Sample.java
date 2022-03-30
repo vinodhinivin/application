@@ -25,13 +25,17 @@ public class Sample {
 		System.out.println("Pnicode:" +pinCode);
 		
 		long mobNo = 9004567386l;
-		System.out.println("Mobile nO:" +mobNo);
+		System.out.println("Mobile no:" +mobNo);
 		
 		String mailId = "vin.123@gmail.com";
 		System.out.println("Mail Id:" +mailId);
 		
+		String aadharNo = "123456783377";
+		System.out.println("Aadhar No:" +aadharNo);
+		
 		boolean toApplyForNetBanking = true;
 		System.out.println("I wish to apply for Netbanking:" +toApplyForNetBanking);
-	} 
+		
+		} 
 
 }
