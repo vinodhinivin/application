@@ -36,6 +36,13 @@ public class Sample {
 		boolean toApplyForNetBanking = true;
 		System.out.println("I wish to apply for Netbanking:" +toApplyForNetBanking);
 		
-		} 
+		System.out.println("done");
+		
+		String aadharNo1 = "123456783377";
+		System.out.println("Aadhar No:" +aadharNo);
 
-}
+		} 
+		
+	} 
+
+
